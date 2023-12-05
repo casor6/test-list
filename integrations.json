@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Google Workspace",
+        "vendor": "google",
+        "images": {
+            "logo": "logos/google.png",
+            "hub": "hub/google.svg",
+            "bnw": "bnw/google.png",
+            "thumbnail": "thumbnail/google.png"
+        },
+        "plan": {
+            "free": 0,
+            "std": 8.75,
+            "plus": 15,
+            "enterprise": 24,
+            "compliance": 35
+        }
+    }
+]
